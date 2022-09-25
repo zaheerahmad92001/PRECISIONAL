@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "377301598750",
+    "project_id": "phixey-4d667",
+    "storage_bucket": "phixey-4d667.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377301598750:android:c149601f269d4d7ed9a40f",
+        "android_client_info": {
+          "package_name": "com.phixey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377301598750-10v1a335e6pq86n6aglufpb71igousaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwZnkQFNe4Co7gI2p6PNHeKjrQQQsFAyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377301598750-10v1a335e6pq86n6aglufpb71igousaq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
